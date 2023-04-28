@@ -28,6 +28,3 @@ Start converting videos to high-quality audio!
 # Contributing
 We welcome contributions from the community! If you have an idea for a feature or improvement, or if you find a bug or issue, please open an issue or pull request on this repository.
 
-# License
-MicroVid2Audio is licensed under the MIT license. See the LICENSE file for more information.
-
