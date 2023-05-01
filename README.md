@@ -16,6 +16,9 @@ MicroVid2Audio comes with a range of features to make video-to-audio conversion 
 
 * High-quality audio output: Our platform leverages state-of-the-art audio processing algorithms to ensure high-quality output that meets professional standards.
 
+Architecture of MicroVid2Audio:
+![image](https://user-images.githubusercontent.com/78417411/235443577-446058f4-3a43-4f4c-9154-f28fd5c4b633.png)
+
 # Getting Started
 To get started with MicroVid2Audio, follow these steps:
 
